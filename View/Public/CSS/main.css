@@ -1,0 +1,75 @@
+body {
+    background : linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../images/moto.jpg");
+    background-size: 1600px;
+    width: auto;
+    height: fit-content;
+    width: auto;
+    height: fit-content;
+}
+
+.btn {
+    background-color: #e48648;
+    color: #f2e9c2;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    border: 1px solid #e48648;
+}
+
+.btn:hover {
+    background-color: #e48648;
+    color: #f2e9c2;
+    box-shadow: 0px 0px 20px #e48648 !important;
+    border: 1px solid #e48648;
+}
+
+.nav-link:hover {
+    font-size: larger !important;
+}
+
+h1 {
+    font-family: 'Sancreek', serif;
+    color: #e48648;
+    text-shadow: 0px 0px 5px #212932;
+}
+
+table{
+    border: 5px solid #e48648 !important;
+    border-radius: 8px !important;
+
+}
+
+h2 {
+    color: #e48648;
+    text-shadow: 0px 0px 5px #212932;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+}
+
+input {
+
+    border: 3px solid #e48648 !important
+}
+
+input:hover {
+box-shadow: 0px 0px 20px #e48648;
+}
+
+label {
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    color :#e48648 ;
+    font-weight: 900;
+    text-shadow: 0px 0px 5px #212932;
+}
+
+
+select {
+
+    border: 3px solid #e48648 !important
+}
+
+select:hover {
+box-shadow: 0px 0px 20px #e48648;
+}
+
+

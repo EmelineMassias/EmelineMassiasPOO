@@ -1,0 +1,50 @@
+body {
+    background-image: url("../images/texas.jpg");
+    background-size: 1600px;
+    width: auto;
+    height: fit-content;
+    color: #e48648;
+
+}
+
+.btn {
+    background-color: #e48648;
+    color: #f2e9c2;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+.btn:hover {
+    background-color: #e48648;
+    color: #f2e9c2;
+    box-shadow: 0px 0px 20px #e48648 !important;
+    font-size: larger;
+}
+
+h1 {
+    font-family: 'Sancreek', serif;
+}
+
+img {
+
+    display: "flex";
+    justify-content: center !important;
+}
+
+input {
+
+    border: 3px solid #e48648 !important
+}
+
+input:hover {
+box-shadow: 0px 0px 20px #e48648;
+}
+
+label {
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+
